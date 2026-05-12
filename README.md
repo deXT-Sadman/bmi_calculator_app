@@ -19,13 +19,13 @@ This application helps users calculate BMI based on height and weight while prov
 
 ## 🖼️ Screenshots
 
-![image alt](screenshots/Screenshot_1778605803.png)
-![image alt](screenshots/Screenshot_1778605808.png)
-![image alt](screenshots/Screenshot_1778605819.png)
-![image alt](screenshots/Screenshot_1778605829.png)
-![image alt](screenshots/Screenshot_1778605846.png)
-![image alt](screenshots/Screenshot_1778605856.png)
-![image alt](screenshots/Screenshot_1778605863.png)
+<img src="screenshots/Screenshot_1778605803" width="270" height="600">
+<img src="screenshots/Screenshot_1778605808" width="270" height="600">
+<img src="screenshots/Screenshot_1778605819" width="270" height="600">
+<img src="screenshots/Screenshot_1778605829" width="270" height="600">
+<img src="screenshots/Screenshot_1778605846" width="270" height="600">
+<img src="screenshots/Screenshot_1778605856" width="270" height="600">
+<img src="screenshots/Screenshot_1778605863" width="270" height="600">
 
 ---
 
