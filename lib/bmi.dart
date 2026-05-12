@@ -77,6 +77,21 @@ class _MyHomePageState extends State<MyHomePage> {
         backgroundColor: Colors.purpleAccent,
         centerTitle: true,
         shadowColor: Colors.purpleAccent,
+        actions: [
+          IconButton(
+            onPressed: () {
+              setState(() {
+                weightController.clear();
+                ftController.clear();
+                inchController.clear();
+                result = "";
+                msg = "";
+                bgcolor = null;
+              });
+            },
+            icon: const Icon(Icons.refresh, color: Colors.white),
+          ),
+        ],
       ),
       body: Container(
         decoration: BoxDecoration(color: bgcolor ?? Colors.white),
